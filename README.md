@@ -1,7 +1,7 @@
 # 🚖 Uber Rides Analysis Dashboard (Power BI)
 
 ## 🖼️ Dashboard Preview
-[![Uber Dashboard](Screenshots/uber_dashboard.png)](https://github.com/Rushikathar/Uber-Dashboard/blob/main/Uber%20Dashboard.png)
+(Screenshots/uber_dashboard.png)](https://github.com/Rushikathar/Uber-Dashboard/blob/main/Uber%20Dashboard.png)
 
 ---
 
