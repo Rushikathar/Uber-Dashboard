@@ -1,5 +1,10 @@
 # 🚖 Uber Rides Analysis Dashboard (Power BI)
 
+## 🖼️ Dashboard Preview
+[![Uber Dashboard](Screenshots/uber_dashboard.png)](https://github.com/Rushikathar/Uber-Dashboard/blob/main/Uber%20Dashboard.png)
+
+---
+
 ## 📌 Project Overview
 This project presents an interactive **Uber Rides Analysis Dashboard** built using **Microsoft Power BI**.  
 The dashboard provides key insights into **ride performance, revenue trends, booking status, vehicle type analysis, and customer ratings**.
@@ -92,10 +97,7 @@ Copy code
 
 ---
 
-## 🖼️ Dashboard Preview
-![Uber Dashboard](Screenshots/uber_dashboard.png)
 
----
 
 ## 🚀 Key Learnings
 - Hands-on experience with **Power BI dashboard design**
